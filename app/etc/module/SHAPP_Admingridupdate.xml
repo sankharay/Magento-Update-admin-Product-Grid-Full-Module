@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento
+ *
+ *
+ * @category    Adding New Column in Manage Product Section
+ * @package     SHAPP_Admingridupdate
+ * @copyright   Copyright (c) 2014 ( Developer Sandeep Singh :  ssingh@simplehuman.com )
+ * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+-->
+<config>
+    <modules>
+        <SHAPP_Admingridupdate>
+            <active>true</active>
+            <codePool>local</codePool>
+        </SHAPP_Admingridupdate>
+    </modules>
+</config>

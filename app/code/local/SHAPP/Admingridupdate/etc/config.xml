@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <SHAPP_Admingridupdate>
+            <version>1.0.0</version>
+        </SHAPP_Admingridupdate>
+    </modules>
+    <global>
+        <blocks>
+            <adminhtml>
+               <rewrite>
+                   <catalog_product_grid>SHAPP_Admingridupdate_Block_Adminhtml_Catalog_Product_Grid</catalog_product_grid>
+               </rewrite>
+           </adminhtml>
+        </blocks>
+    </global>
+</config>
